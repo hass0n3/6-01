@@ -1,0 +1,24 @@
+.MyDiv0 {
+          text-align: center;
+          font-family: "Indie Flower", cursive;
+          background-color: #ffff;
+          border: 5px solid #000;
+          padding : 75px;
+          margin : 30px;
+}
+
+input {
+            width:  250px;
+            height: 40px;
+            border: 6px solid #000;
+}
+
+.MYbutton {
+            background-color: #000;
+            color : #ffff;
+            border: 2px solid #333;
+            border-radius: 10px;
+            font-family: "Indie Flower", cursive;
+            width : 50px;
+            height: 50px;
+}
