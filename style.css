@@ -10,15 +10,18 @@
 input {
             width:  250px;
             height: 40px;
-            border: 6px solid #000;
+            border: 6px solid rgb(126, 243, 142);
 }
 
 .MYbutton {
             background-color: #000;
-            color : #ffff;
+            color : rgb(47, 150, 124);
             border: 2px solid #333;
             border-radius: 10px;
             font-family: "Indie Flower", cursive;
             width : 50px;
             height: 50px;
+}
+body {
+  background : linear-gradient(to right, rgb(0, 255, 0) , rgb(12, 235, 179))
 }
